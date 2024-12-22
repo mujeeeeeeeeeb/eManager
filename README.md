@@ -42,6 +42,16 @@ The tutorial covers the following topics:
 2. Build and run the Expense Manager App project from Android Studio.
 3. Access the application on your Android device or emulator to start managing your expenses by adding, categorizing, and analyzing them using the available features.
 
+## Demo
+
+<p align="center">
+  <img src="demo-images/img1.png" alt="Image 1" width="200"/>
+  <img src="demo-images/img2.png" alt="Image 2" width="200"/>
+  <img src="demo-images/img3.png" alt="Image 3" width="200"/>
+  <img src="demo-images/img4.png" alt="Image 4" width="200"/>
+</p>
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
